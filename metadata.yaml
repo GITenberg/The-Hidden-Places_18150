@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3891
 description: Canadian veteran Robert Hollister is horribly disfigured by shrapnel
   wounds in World War I, and worse, is officially declared dead.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18150#The-Hidden-Places
 gutenberg_issued: '2006-04-11'
 gutenberg_type: Text
 identifiers:
