@@ -1,0 +1,36 @@
+_repo: The-Hidden-Places_18150
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, William Brown
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+description: Canadian veteran Robert Hollister is horribly disfigured by shrapnel
+  wounds in World War I, and worse, is officially declared dead.
+gutenberg_issued: '2006-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vancouver (B.C.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'Blind women -- Fiction'
+- !lcsh 'Disfigured persons -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Psychological fiction'
+title: The Hidden Places
+url: http://www.gutenberg.org/ebooks/18150
